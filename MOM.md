@@ -1,3 +1,5 @@
+# cube composition
+
 MUL:             80/20 U, 30/30 R, 9/15 M
 
 MOM: 606/101 C, 150/50 U, 44/44 R, 7/10 M
@@ -15,3 +17,17 @@ MOM R/M: 51/60 !!! + 9 uncommons
 DFCs: 100/60
 Battle: 87/60
 Lands: 120/60
+
+# pack composition
+1 MUL
+1 DFC
+1 Battle
+1 land
+
+8-9 C
+2-5 U
+0-4 R/M
+
+mythics:
+-6 MUL
+-3 MOM
